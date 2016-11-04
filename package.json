@@ -1,0 +1,24 @@
+{
+  "name": "angular-feature-flag",
+  "version": "1.0.0",
+  "description": "This is an Angular service that provides simple configurable \"feature flags\" to disable or enable certain application features. This allows areas of code to be in code base on production, but hidden until the flag is activated globally. Until then flags can be activated, but setting a key in local storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mryarbles/angular-feature-flag.git"
+  },
+  "keywords": [
+    "angular",
+    "feature-flag",
+    "ab-testing"
+  ],
+  "author": "Luke Grannis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mryarbles/angular-feature-flag/issues"
+  },
+  "homepage": "https://github.com/mryarbles/angular-feature-flag#readme"
+}
